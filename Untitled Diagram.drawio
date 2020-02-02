@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-02T01:56:47.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="zfmL82O403Y4xwrtIUjK" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T02:00:14.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="F_KwSkRzfvSDfUzF1_EB" version="12.6.2" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="1447" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -167,7 +167,7 @@
           <mxGeometry x="830" y="710" width="110" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-40" value="&lt;h1&gt;Work request Flow chart&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="40" width="520" height="120" as="geometry"/>
+          <mxGeometry x="650" y="60" width="520" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-41" value="Send mail to Creator, Admin, Manager and Coordinator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="220" width="120" height="60" as="geometry"/>
@@ -311,6 +311,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1161" y="440" as="sourcePoint"/>
             <mxPoint x="1039.2850000000003" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-93" value="Admin -&amp;nbsp;&lt;span style=&quot;text-indent: -0.25in&quot;&gt;Module + new user Add/remove/status check&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left: 0.25in ; text-indent: -0.25in&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="510" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-94" value="Viewer - Acts as an observer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="670" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-95" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=180;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="120" width="50" height="900" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-96" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="_ZgnA_AFbBj5DAzCL6um-93" target="_ZgnA_AFbBj5DAzCL6um-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="1130" as="sourcePoint"/>
+            <mxPoint x="1610" y="1080" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
