@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-02T00:56:37.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="zGePdwSdRMHF9RPPBAAY" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T01:13:38.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="NBBHXNkkto_42lGO-agP" version="12.6.2" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="1447" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="3957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -17,13 +17,13 @@
           <mxGeometry x="740" y="320" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-6" value="Installer -&amp;nbsp;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;View/Drag/Add&lt;br/&gt;photos/update status&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="630" width="120" height="60" as="geometry"/>
+          <mxGeometry x="750" y="760" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-7" value="Viewer - Acts as an observer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="740" width="120" height="60" as="geometry"/>
+          <mxGeometry x="940" y="850" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-8" value="Parking officer - Report damages/ Upload photos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="850" width="120" height="60" as="geometry"/>
+          <mxGeometry x="750" y="960" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-9" value="Install new sign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="480" width="120" height="60" as="geometry"/>
@@ -133,6 +133,42 @@
         </mxCell>
         <mxCell id="_ZgnA_AFbBj5DAzCL6um-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="50" height="790" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-33" value="Approval" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-34" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZgnA_AFbBj5DAzCL6um-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="650" as="sourcePoint"/>
+            <mxPoint x="350" y="650" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="150" as="sourcePoint"/>
+            <mxPoint x="350" y="650" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-36" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_ZgnA_AFbBj5DAzCL6um-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="150" as="sourcePoint"/>
+            <mxPoint x="430" y="520" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-37" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZgnA_AFbBj5DAzCL6um-33" target="_ZgnA_AFbBj5DAzCL6um-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="730" as="sourcePoint"/>
+            <mxPoint x="350" y="1060" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-38" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="620" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-39" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="710" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_ZgnA_AFbBj5DAzCL6um-40" value="&lt;h1&gt;Work request Flow chart&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-40" width="520" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
