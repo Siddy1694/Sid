@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-06T01:46:59.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="eCQMucDIxneIHfOhJ7Et" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T01:49:53.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Dj68RRXXlxYEORvidvwG" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -598,17 +598,29 @@
         <mxCell id="RNnpt0_5kWRAgg4inEh5-79" value="Left click&amp;nbsp; on edit sign&amp;nbsp; icon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1864" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="RNnpt0_5kWRAgg4inEh5-80" value="New wilndow will open to change the sign details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1850" width="120" height="60" as="geometry"/>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-80" value="From right side of screen new window will pop up. Change the details and save the sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1850" width="190" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="RNnpt0_5kWRAgg4inEh5-82" value="Left click - -&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1820" width="60" height="20" as="geometry"/>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-82" value="Left click - three vertical dots &quot;:&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1829" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-76" target="RNnpt0_5kWRAgg4inEh5-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="1890" as="sourcePoint"/>
             <mxPoint x="1620" y="1890" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RNnpt0_5kWRAgg4inEh5-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1980" y="1880" as="sourcePoint"/>
+            <mxPoint x="1800" y="1890" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-88" value="Add a note for the changes and save the work request by scrolling up and presing the save button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1850" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-89" value="Left click - Save request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1840" width="60" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
