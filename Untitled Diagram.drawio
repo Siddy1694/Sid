@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-06T02:37:03.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="s62XXTV6WSmYDxNbSawq" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T02:37:52.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="dl2Dzg-hvpEuMG8z-P6o" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="1021" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -972,6 +972,9 @@
             <mxPoint x="1160" y="2428.8200000000006" as="sourcePoint"/>
             <mxPoint x="2390" y="2590" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-106" value="Left click on map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1520" width="50" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
