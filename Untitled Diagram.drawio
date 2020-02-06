@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-06T10:07:33.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="EeV8uXn_jsXzfQAEBQXV" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T10:18:21.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="P0l0F0eRLHP_UJRDgeXF" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="2480" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-17" value="Select a dedicated box of a sign which needs to be overlayed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="2151" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-18" value="Select &quot;Ooverlay&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-18" value="Select &quot;Ooverlay&quot;&amp;nbsp; -SIGN BUILDER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="2151" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-bN2wkxpZDBHlCNA9w-0-17" target="-bN2wkxpZDBHlCNA9w-0-18" edge="1">
@@ -1128,9 +1128,6 @@
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-158" value="A pop up message will be displayed." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="2890" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-160" value="Cancel the rejection process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="589.29" y="2620" width="120" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="699" y="2890" as="sourcePoint"/>
@@ -1339,6 +1336,9 @@
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-5" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff3333&quot;&gt;Workflow for Inspector&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="3600" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="tuPa_upBBXGi6HixhKoa-6" value="Replace and relocate sign &amp;amp; pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2680" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
