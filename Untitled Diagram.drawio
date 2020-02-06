@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-06T02:08:39.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="8C9cRdDlCx8hnds01DQ8" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T02:12:09.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="eEhwBgeq0aEyStS0UcbC" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="2170" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -347,16 +347,16 @@
           <mxGeometry x="205" y="2040" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-9" value="Remove sign and pole" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="2130" width="120" height="60" as="geometry"/>
+          <mxGeometry x="205" y="2340" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-10" value="Remove redundant pole" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="2220" width="120" height="60" as="geometry"/>
+          <mxGeometry x="205" y="2430" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-11" value="Relocate sign and pole" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="2310" width="120" height="60" as="geometry"/>
+          <mxGeometry x="205" y="2520" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-12" value="Replace and relocate sign &amp;amp; pole" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="2390" width="120" height="60" as="geometry"/>
+          <mxGeometry x="205" y="2600" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-13" value="Add pole" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1560" width="120" height="60" as="geometry"/>
@@ -689,10 +689,10 @@
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-16" value="Left click - Save request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1980" y="1950.5" width="60" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-17" value="Select a dedicated box of a sign which needs to be replaced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-17" value="Select a dedicated box of a sign which needs to be overlayed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2151" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-18" value="Select &quot;Replace&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-18" value="Select &quot;Ooverlay&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="2151" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="-bN2wkxpZDBHlCNA9w-0-17" target="-bN2wkxpZDBHlCNA9w-0-18" parent="1">
@@ -707,38 +707,14 @@
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-21" value="Scroll down" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="2151" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-22" value="New wilndow will open to change the sign details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="2151" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="-bN2wkxpZDBHlCNA9w-0-22" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1520" y="2181" as="sourcePoint"/>
-            <mxPoint x="1220" y="2191" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-24" value="Left click&amp;nbsp; on edit sign&amp;nbsp; icon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="2165" width="60" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-25" value="From right side of screen new window will pop up. Change the details and save the sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="2151" width="190" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-26" value="Left click - three vertical dots &quot;:&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="2130" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="-bN2wkxpZDBHlCNA9w-0-22" target="-bN2wkxpZDBHlCNA9w-0-25" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1530" y="2191" as="sourcePoint"/>
-            <mxPoint x="1610" y="2191" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-bN2wkxpZDBHlCNA9w-0-18" target="-bN2wkxpZDBHlCNA9w-0-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1970" y="2181" as="sourcePoint"/>
             <mxPoint x="2060" y="2181" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-29" value="Left click - Save request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="2141" width="60" height="40" as="geometry"/>
+          <mxGeometry x="1530" y="2131" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-48" target="-bN2wkxpZDBHlCNA9w-0-4">
           <mxGeometry relative="1" as="geometry">
@@ -798,6 +774,9 @@
               <mxPoint x="1010" y="2180"/>
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-61" value="Add a note for the changes and save the work request by scrolling up and presing the save button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2151" width="190" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
