@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-06T00:30:24.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="GtxvfUQVzwxnzYbCZnB9" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T00:37:55.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="oIYY_lTQ4onN2YKV-PRK" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="1240" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -330,6 +330,42 @@
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-1" value="Install new sign and pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="1130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-3" value="Remove Sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-4" value="Replace sign on existing pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-6" value="Add and replace sign on existing pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-7" value="Add sign / install new sign on existing pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-8" value="Overlays" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-9" value="Remove sign and pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1700" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-10" value="Remove redundant pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1790" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-11" value="Relocate sign and pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1880" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-12" value="Replace and relocate sign &amp;amp; pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1960" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-13" value="Install new sign and pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-14" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-1" target="RNnpt0_5kWRAgg4inEh5-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="2090" as="sourcePoint"/>
+            <mxPoint x="140" y="2040" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
