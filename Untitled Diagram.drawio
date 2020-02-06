@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-06T01:20:36.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wDIpC9bDtEIsk3u5k0ir" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T01:26:27.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="T4-JV3Y281C4xdyEUp8V" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
             <mxPoint x="1040" y="1890" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RNnpt0_5kWRAgg4inEh5-62" value="Left click - &quot;YES&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-62" value="Left click - &quot;+&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1660" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
