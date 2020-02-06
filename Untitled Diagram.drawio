@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-06T01:02:10.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="v4XCaigbBwGtZKFiUK3J" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T01:05:47.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="RXhSisu59UoRLMjU9eZT" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="1021" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -485,7 +485,7 @@
           <mxGeometry x="829.29" y="1850" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-47" value="Exit the edit process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1780" width="120" height="60" as="geometry"/>
+          <mxGeometry x="830" y="1730" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-48" value="Do you want to edit the sign?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1850" width="120" height="60" as="geometry"/>
@@ -496,17 +496,35 @@
             <mxPoint x="840" y="1890" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RNnpt0_5kWRAgg4inEh5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-46" target="RNnpt0_5kWRAgg4inEh5-47">
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-46" target="RNnpt0_5kWRAgg4inEh5-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="1900" as="sourcePoint"/>
             <mxPoint x="850" y="1900" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-51" value="Left click - &quot;CANCEL&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1780" width="40" height="20" as="geometry"/>
+          <mxGeometry x="909.29" y="1810" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-52" value="Left click - &quot;YES&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="1850" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-55" value="Simply right click on any sign you want to add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="1660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-48" target="RNnpt0_5kWRAgg4inEh5-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="1890" as="sourcePoint"/>
+            <mxPoint x="1040" y="1890" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1690" as="sourcePoint"/>
+            <mxPoint x="1090" y="1690" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
