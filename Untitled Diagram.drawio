@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-06T10:22:16.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="DMqnu56cWYuZAPMYpUZ3" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T10:28:41.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="iqZmpMY7vktUxw66NhzH" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="1447" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1138,7 +1138,7 @@
           <mxGeometry x="770.0000000000001" y="2830" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-159" value="Left click - &quot;CANCEL&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="2870" width="40" height="20" as="geometry"/>
+          <mxGeometry x="570" y="2890" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-bN2wkxpZDBHlCNA9w-0-137" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1339,9 +1339,6 @@
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-6" value="Replace and relocate sign &amp;amp; pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="2680" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="tuPa_upBBXGi6HixhKoa-7" value="Temporary pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1230" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
