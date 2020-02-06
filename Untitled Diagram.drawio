@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-06T02:37:52.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="dl2Dzg-hvpEuMG8z-P6o" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T02:39:29.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="oAhIXh73_ko9Wz2lO7jM" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="1447" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -975,6 +975,36 @@
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-106" value="Left click on map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="1520" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-107" value="Add details of sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650.71" y="1350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-108" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNnpt0_5kWRAgg4inEh5-15" target="-bN2wkxpZDBHlCNA9w-0-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370.0000000000002" y="1530" as="sourcePoint"/>
+            <mxPoint x="455.0000000000002" y="1530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-109" value="Select a new sign to add&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="853.53" y="1350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-110" value="Selected sign will be added" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1043.53" y="1350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="-bN2wkxpZDBHlCNA9w-0-109" target="-bN2wkxpZDBHlCNA9w-0-110" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.53" y="1580" as="sourcePoint"/>
+            <mxPoint x="673.53" y="1580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-112" value="Left click - &quot;+&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="983.53" y="1350" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-113" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-bN2wkxpZDBHlCNA9w-0-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="1380" as="sourcePoint"/>
+            <mxPoint x="455" y="1359.5" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
