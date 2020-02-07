@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-07T00:43:14.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="yP_SyB1MAAEWN8O6DAMf" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T00:45:19.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="3AoHFja3ts6qguUAb0gy" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="1021" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1381,7 +1381,7 @@
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tuPa_upBBXGi6HixhKoa-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2400" y="1390" as="targetPoint"/>
+            <mxPoint x="2390" y="1380" as="targetPoint"/>
             <mxPoint x="1173.5299999999997" y="1390" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
@@ -1390,6 +1390,9 @@
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-23" value="Left click on edit icon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1335" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="tuPa_upBBXGi6HixhKoa-24" value="Once you have fixed the sign, it will be automatically saved." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1350" width="210" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
