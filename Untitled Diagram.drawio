@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-07T00:50:08.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Xc72qfEg_OlqdRZs4c5G" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T00:51:15.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="6CM8Ux0ARiVlhlDEdsYU" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="496" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -388,7 +388,7 @@
         <mxCell id="tuPa_upBBXGi6HixhKoa-12" value="Set an end date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="1160" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="tuPa_upBBXGi6HixhKoa-18" value="Add comment on the pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tuPa_upBBXGi6HixhKoa-18" value="Add a comment on the pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="1160" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-19" value="Other" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
