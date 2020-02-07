@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-07T00:35:28.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jBc1Cy2y-oj04r9J41tQ" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T00:36:27.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="pvgwZKA7QW5SettssJwi" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="1021" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -556,7 +556,7 @@
         <mxCell id="RNnpt0_5kWRAgg4inEh5-65" value="Left click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1130.71" y="1810" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="RNnpt0_5kWRAgg4inEh5-66" value="Left click - -&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RNnpt0_5kWRAgg4inEh5-66" value="Left click - &quot;-&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1350" y="1760" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="RNnpt0_5kWRAgg4inEh5-67" value="Existing sign will be removed." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
