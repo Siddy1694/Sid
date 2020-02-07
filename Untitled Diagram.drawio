@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-07T01:04:11.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9eWO2NakXBM5q4KGL-Va" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T01:06:09.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="TMfppLijlapDqDzELyqO" version="12.6.5" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="4747" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4321" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1215,7 +1215,7 @@
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-184" value="Verification by Parking Inspector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="3580" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="tuPa_upBBXGi6HixhKoa-38" value="Verification by Parking Inspector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tuPa_upBBXGi6HixhKoa-38" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff3333&quot;&gt;Responsibiltiy of Parking Inspector&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="3720" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-bN2wkxpZDBHlCNA9w-0-186" target="-bN2wkxpZDBHlCNA9w-0-188" edge="1">
@@ -1344,16 +1344,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-2" value="&lt;font color=&quot;#3333ff&quot; size=&quot;1&quot;&gt;&lt;u style=&quot;font-size: 29px&quot;&gt;&lt;b&gt;Approval Process&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2850" width="300" height="20" as="geometry"/>
+          <mxGeometry x="-215" y="2995" width="175" height="105" as="geometry"/>
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-3" value="&lt;font style=&quot;font-size: 29px&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;&lt;u&gt;Formulation of different types of work requests&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1090" width="675" height="60" as="geometry"/>
+          <mxGeometry x="-342.86" y="1839" width="340" height="245" as="geometry"/>
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-4" value="&lt;font style=&quot;font-size: 29px&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;&lt;u&gt;Workflow for Installer&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3280" width="180" height="80" as="geometry"/>
+          <mxGeometry x="-220" y="3430" width="180" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-5" value="&lt;font style=&quot;font-size: 29px&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;&lt;u&gt;Workflow for Inspector&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="3580" width="200" height="90" as="geometry"/>
+          <mxGeometry x="-230" y="3640" width="200" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-6" value="Replace and relocate sign &amp;amp; pole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="2680" width="120" height="60" as="geometry"/>
