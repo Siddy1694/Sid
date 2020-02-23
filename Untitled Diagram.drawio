@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-23T11:33:40.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="T-tSoHo5nXG7lSQAcYb5" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-23T11:36:57.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="pGsaK0EEibbg6ptFuZUo" version="12.7.4" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
-    <mxGraphModel dx="1240" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -973,7 +973,7 @@
             <mxPoint x="2890" y="2660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-bN2wkxpZDBHlCNA9w-0-106" value="Left click on map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-bN2wkxpZDBHlCNA9w-0-106" value="Right click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="1590" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wIzVQQWy8HUKK1Gkp-v1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bN2wkxpZDBHlCNA9w-0-107" target="wIzVQQWy8HUKK1Gkp-v1-1">
@@ -1461,7 +1461,7 @@
             <mxPoint x="1150" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tuPa_upBBXGi6HixhKoa-20" value="Left click on map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tuPa_upBBXGi6HixhKoa-20" value="Right Click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="1270" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tuPa_upBBXGi6HixhKoa-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tuPa_upBBXGi6HixhKoa-18" edge="1">
