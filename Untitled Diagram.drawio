@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-23T11:21:17.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="CBNwuSzWZOoAYQqRC3k4" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-23T11:33:40.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="T-tSoHo5nXG7lSQAcYb5" version="12.7.4" type="github">
   <diagram id="1Mwl_uIE6AdL1eUd1yoq" name="Page-1">
     <mxGraphModel dx="1240" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1018,8 +1018,19 @@
         <mxCell id="wIzVQQWy8HUKK1Gkp-v1-18" value="Select Upload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1950.71" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-20" value="Add details of sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2150.71" y="1610" width="120" height="60" as="geometry" />
+        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIzVQQWy8HUKK1Gkp-v1-20" target="wIzVQQWy8HUKK1Gkp-v1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-20" value="Check RECENT MENU for new sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIzVQQWy8HUKK1Gkp-v1-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2890" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-24" value="Check SIGN LIBRARY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIzVQQWy8HUKK1Gkp-v1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIzVQQWy8HUKK1Gkp-v1-1" target="wIzVQQWy8HUKK1Gkp-v1-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1039,14 +1050,13 @@
         <mxCell id="wIzVQQWy8HUKK1Gkp-v1-5" value="Add sign title and title size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750.71" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIzVQQWy8HUKK1Gkp-v1-14" target="wIzVQQWy8HUKK1Gkp-v1-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIzVQQWy8HUKK1Gkp-v1-14" target="wIzVQQWy8HUKK1Gkp-v1-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2150.71" y="1560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIzVQQWy8HUKK1Gkp-v1-14" value="Select restriction, day and time, arrow direction and update other details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1950.71" y="1530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wIzVQQWy8HUKK1Gkp-v1-16" value="Select &quot;Update&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2150.71" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-bN2wkxpZDBHlCNA9w-0-108" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RNnpt0_5kWRAgg4inEh5-15" target="-bN2wkxpZDBHlCNA9w-0-107" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
